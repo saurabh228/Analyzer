@@ -1,7 +1,7 @@
 # Analyzer
 Unlock the Future of Stock Market Predictions
 
-Welcome to Analyzer, a revolutionary project that combines statistical data analysis with real-time news event insights to predict stock behaviors and market sentiments.
+Welcome to Analyzer, a revolutionary project that aims to combines statistical data analysis with real-time news event insights to predict stock behaviors and market sentiments.
 
 Key Features:
 Event-Driven Analysis: Gain a deeper understanding of stock movements by mapping relationships between specific events, industries, and individual stocks.
